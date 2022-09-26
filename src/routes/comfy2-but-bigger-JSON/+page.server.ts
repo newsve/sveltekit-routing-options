@@ -5,6 +5,5 @@ export async function load() {
 	console.time('res.json()');
 	const resAsJSON = await res.json();
 	console.timeEnd('res.json()');
-	console.time('devalue');
 	return resAsJSON;
 }
