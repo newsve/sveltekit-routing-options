@@ -13,3 +13,5 @@ Names from me for the sake of having short names in the table, if you know bette
 | Endpoint can also be used alone as pure JSON one (DRY)         | ✅    |       | ✅    |
 | Minimal/not boileeplate-y                                      |       | ✅    |       |
 | One serialization run only\*                                   | ✅    | 🟨    |       |
+
+- Flexy has always min. 2 runs (devalue and fetch's run) and Comfy has devalue and if you need more special types preserved potentially more than 1 as well
