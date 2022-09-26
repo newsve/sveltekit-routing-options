@@ -1,6 +1,6 @@
 <script lang="ts">
 	async function getKeyboard() {
-		const res = await fetch('/comfy/__data.js', { headers: { accept: 'application/json' } });
+		const res = await fetch('/comfy/__data.js');
 		const resAsText = await res.text();
 		(0, eval)('(' + resAsText + ')');
 
