@@ -1,6 +1,6 @@
 export async function GET() {
 	const keyboard = {
-		name: 'Hunstman Mini',
+		name: 'Huntsman Mini',
 		layout: '60%'
 	};
 
