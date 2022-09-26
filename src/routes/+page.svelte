@@ -9,6 +9,6 @@ endpoint)
 endpoint)<br />
 <br />
 <a href="/misusing-comfy2-but-bigger-JSON-as-pure-JSON-endpoint "
-	>misusing comfy as pure JSON endpoint</a
+	>misusing "comfy2 but bigger JSON" as pure JSON endpoint</a
 >
 (fetches comfy2-but-bigger-JSON's JSON<br /><br />
